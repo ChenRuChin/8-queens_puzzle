@@ -1,0 +1,7 @@
+C:\Users\190106\source\repos\8-queens_puzzle\8-queens_puzzle\bin\Debug\8-queens_puzzle.exe.config
+C:\Users\190106\source\repos\8-queens_puzzle\8-queens_puzzle\bin\Debug\8-queens_puzzle.exe
+C:\Users\190106\source\repos\8-queens_puzzle\8-queens_puzzle\bin\Debug\8-queens_puzzle.pdb
+C:\Users\190106\source\repos\8-queens_puzzle\8-queens_puzzle\obj\Debug\8-queens_puzzle.csprojAssemblyReference.cache
+C:\Users\190106\source\repos\8-queens_puzzle\8-queens_puzzle\obj\Debug\8-queens_puzzle.csproj.CoreCompileInputs.cache
+C:\Users\190106\source\repos\8-queens_puzzle\8-queens_puzzle\obj\Debug\8-queens_puzzle.exe
+C:\Users\190106\source\repos\8-queens_puzzle\8-queens_puzzle\obj\Debug\8-queens_puzzle.pdb
